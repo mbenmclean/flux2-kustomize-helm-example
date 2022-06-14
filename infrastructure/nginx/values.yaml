@@ -1,4 +1,0 @@
-controller:
-  image:
-    registry: ghcr.io
-    image: verazzano/nginx-ingress-controller:1.1.1-20220413170248-b60724ed1
