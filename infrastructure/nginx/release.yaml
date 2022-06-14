@@ -23,6 +23,6 @@ spec:
     image:
       registry: ghcr.io
       repository: verazzano/nginx-ingress-controller
-      tage: 1.1.1-20220413170248-b60724ed1
+      tag: 1.1.1-20220413170248-b60724ed1
     service:
       type: NodePort
