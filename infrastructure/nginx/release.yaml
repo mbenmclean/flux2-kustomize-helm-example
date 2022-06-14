@@ -22,7 +22,7 @@ spec:
     replicaCount: 4
     image:
       registry: ghcr.io
-      repository: verazzano/nginx-ingress-controller
+      repository: verrazzano/nginx-ingress-controller
       tag: 1.1.1-20220413170248-b60724ed1
     service:
       type: NodePort
